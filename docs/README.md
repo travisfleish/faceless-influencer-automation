@@ -24,7 +24,7 @@ This project automates the creation and management of "faceless" influencers on 
 
 Here is the structure of the project folder:
 
-faceless-influencer-automation/
+```faceless-influencer-automation/
 │
 ├── README.md                  # Project overview, setup instructions, and usage
 ├── .gitignore                 # Ignores unnecessary files (e.g., .env, virtualenv)
@@ -55,4 +55,4 @@ faceless-influencer-automation/
 │   ├── usage_guide.md          # How to use the app and contribute
 │   └── api_documentation.md    # API endpoints documentation (if applicable)
 │
-└── .env                        # Environment variables (API keys, secrets) - ignored by .gitignore
+└── .env                        # Environment variables (API keys, secrets) - ignored by .gitignore```
